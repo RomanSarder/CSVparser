@@ -4,6 +4,7 @@ Extracts csv files from zip and converts to JSON
 
 First install all dependencies 
  - npm install
+
 Then run script
 - npm start
 
