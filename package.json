@@ -1,0 +1,16 @@
+{
+  "name": "csv-zip-parser",
+  "version": "1.0.0",
+  "description": "Parses zip folder with csv into json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-string": "^2.3.2",
+    "moment": "^2.18.1",
+    "unzip-stream": "^0.1.2"
+  }
+}
